@@ -1,3 +1,16 @@
 body {
-    background: blue;
+    background: lightcyan;
   }
+#dog1 {
+    width:300px;
+    height: 200px;
+}
+#dog2 {
+    width:300px;
+    height: 300px;
+}
+#dog3 {
+    display: none;
+    width:300px;
+    height: 300px;
+}
